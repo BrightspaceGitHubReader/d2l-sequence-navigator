@@ -1,6 +1,6 @@
 {
-   "completed" : "مُكتمَل(ة)",
-   "completedMofN" : "تم الإكمال {completed}/{total}",
+   "completed" : "مكتمل",
+   "completedMofN" : "تم إكمال {completed}/{total}",
    "countStatus" : "{completed}/{total}",
    "currentModule" : "الوحدة {current} من أصل {total}",
    "due" : "تاريخ الاستحقاق في {dueDate}",

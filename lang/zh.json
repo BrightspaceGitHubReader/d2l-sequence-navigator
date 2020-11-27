@@ -1,8 +1,8 @@
 {
    "completed" : "已完成",
-   "completedMofN" : "Completed {completed}/{total}",
+   "completedMofN" : "已完成 {completed}/{total}",
    "countStatus" : "{completed}/{total}",
-   "currentModule" : "全部 {total} 单元中的 {current} 单元",
+   "currentModule" : "单元 {current}/{total}",
    "due" : "截止日期 {dueDate}",
    "exempt" : "免除",
    "missedItems" : "此模块中剩余 {numberOfMissedActivities, plural, one {# 个项目} other {# 个项目}}。",
