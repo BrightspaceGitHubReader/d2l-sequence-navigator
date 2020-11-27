@@ -1,5 +1,5 @@
 {
-   "completed" : "Abgeschlossen",
+   "completed" : "abgeschlossen",
    "completedMofN" : "{completed}/{total} abgeschlossen",
    "countStatus" : "{completed}/{total}",
    "currentModule" : "Einheit {current} von {total}",
@@ -7,6 +7,6 @@
    "exempt" : "Ausgenommen",
    "missedItems" : "Es sind noch {numberOfMissedActivities, plural, one {# Element} other {# Elemente}} in diesem Modul übrig.",
    "optional" : "Optional",
-   "requirementsCompleted" : "{completed} von {total, plural, one {# Erforderlichen} other {# Erforderlichen}} abgeschlossen",
+   "requirementsCompleted" : "{completed} von {total, plural, one {# Erfordernis} other {# Erfordernisse}} abgeschlossen",
    "starts" : "Beginnt am {startDate}"
 }
