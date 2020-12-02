@@ -5,7 +5,7 @@
    "currentModule" : "Eenheid {current} van {total}",
    "due" : "Uiterste datum {dueDate}",
    "exempt" : "Vrijstellen",
-   "missedItems" : "Je hebt nog {numberOfMissedActivities, plural, one {# item} other {# items}} in deze module.",
+   "missedItems" : "U hebt nog {numberOfMissedActivities, plural, one {# item} other {# items}} in deze module.",
    "optional" : "Optioneel",
    "requirementsCompleted" : "{completed} van {total, plural, one {# vereiste} other {# vereisten}} voltooid",
    "starts" : "Begint op {startDate}"
